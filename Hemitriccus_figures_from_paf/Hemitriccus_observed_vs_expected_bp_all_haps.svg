@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='576.00pt' height='432.00pt' viewBox='0 0 576.00 432.00'>
+<g class='svglite'>
+<defs>
+  <style type='text/css'><![CDATA[
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+    .svglite text {
+      white-space: pre;
+    }
+    .svglite g.glyphgroup path {
+      fill: inherit;
+      stroke: none;
+    }
+  ]]></style>
+</defs>
+<rect width='100%' height='100%' style='stroke: none; fill: #FFFFFF;'/>
+<defs>
+  <clipPath id='cpMC4wMHw1NzYuMDB8MC4wMHw0MzIuMDA='>
+    <rect x='0.00' y='0.00' width='576.00' height='432.00' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMC4wMHw1NzYuMDB8MC4wMHw0MzIuMDA=)'>
+<rect x='0.00' y='0.00' width='576.00' height='432.00' style='stroke-width: 1.07; stroke: #FFFFFF; fill: #FFFFFF;' />
+</g>
+<defs>
+  <clipPath id='cpMTguNjR8NTcwLjUyfDIzLjQ1fDQxMy4zNg=='>
+    <rect x='18.64' y='23.45' width='551.88' height='389.91' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMTguNjR8NTcwLjUyfDIzLjQ1fDQxMy4zNg==)'>
+<rect x='18.64' y='23.45' width='551.88' height='389.91' style='stroke-width: 1.07; stroke: none; fill: #FFFFFF;' />
+<line x1='-533.25' y1='803.27' x2='1122.40' y2='-366.46' style='stroke-width: 1.07; stroke: #7F7F7F; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;' />
+</g>
+<g clip-path='url(#cpMC4wMHw1NzYuMDB8MC4wMHw0MzIuMDA=)'>
+<text x='294.58' y='424.12' text-anchor='middle' style='font-size: 11.00px; font-family: "Nimbus Sans";' textLength='194.28px' lengthAdjust='spacingAndGlyphs'>Mean bp in random windows (expected)</text>
+<text transform='translate(13.50,218.41) rotate(-90)' text-anchor='middle' style='font-size: 11.00px; font-family: "Nimbus Sans";' textLength='128.91px' lengthAdjust='spacingAndGlyphs'>Observed bp in ROI flanks</text>
+<text x='18.64' y='15.09' style='font-size: 13.20px; font-family: "Nimbus Sans";' textLength='146.28px' lengthAdjust='spacingAndGlyphs'>Hemitriccus (PAF-based)</text>
+</g>
+</g>
+</svg>
